@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/FilmyFather/Yuvraj">
+<a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Yuvraj">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
