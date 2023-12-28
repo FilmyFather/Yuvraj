@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/8619a6f258621134b7576.jpg" alt="ApnaTube Logo">
+  <img src="https://graph.org/file/6a0efec4f03d8090117d6.jpg" alt="FilmyDesiFlix Logo">
 </p>
 <h1 align="center">
   𝓕𝓲𝓵𝓶𝔂𝓓𝓮𝓼𝓲𝓕𝓵𝓲𝔁
@@ -8,11 +8,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+FilʍyDᴇsiFlix!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Yuvrᴀj!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠)
 </p>
 
-<a href="https://github.com/AM-ROBOTS/ApnaTube/stargazers"><img src="https://img.shields.io/github/stars/AM-ROBOTS/ApnaTube?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AM-ROBOTS/ApnaTube/network/members"> <img src="https://img.shields.io/github/forks/AM-ROBOTS/ApnaTube?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AM-ROBOTS/ApnaTube"> <img src="https://img.shields.io/github/repo-size/AM-ROBOTS/ApnaTube?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/AM-ROBOTS/ApnaTube/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/AM-ROBOTS/ApnaTube?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AM-ROBOTS/ApnaTube"> <img src="https://img.shields.io/github/contributors/AM-ROBOTS/ApnaTube?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/FilmyFather/Yuvraj/stargazers"><img src="https://img.shields.io/github/stars/FilmyFather/Yuvraj?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/FilmyFather/Yuvraj/network/members"> <img src="https://img.shields.io/github/forks/FilmyFather/Yuvraj?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/FilmyFather/Yuvraj"> <img src="https://img.shields.io/github/repo-size/FilmyFather/Yuvraj?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/AM-ROBOTS/ApnaTube/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/FilmyFather/Yuvraj?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/FilmyFather/Yuvraj"> <img src="https://img.shields.io/github/contributors/AM-ROBOTS/ApnaTube?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/AM-ROBOTS/ApnaTube/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -140,7 +140,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/AM-ROBOTS/ApnaTube&branch=web&name=apnatube)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/FilmyFather/Yuvraj&branch=web&name=apnatube)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -172,7 +172,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AM-ROBOTS/ApnaTube
+git clone https://github.com/FilmyFather/Yuvraj
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
