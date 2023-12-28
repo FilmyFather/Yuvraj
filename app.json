@@ -1,5 +1,5 @@
 {
-    "name": "ApnaTube",
+    "name": "Yuvraj",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/ApnaTube",
-    "repository": "https://github.com/AM-ROBOTS/ApnaTube",
+    "website": "https://github.com/FilmyFather/Yuvraj",
+    "repository": "https://github.com/FilmyFather/Yuvraj",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
