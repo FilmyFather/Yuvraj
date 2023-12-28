@@ -12,7 +12,7 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'ApnaTube')
+SESSION = environ.get('SESSION', 'Yuvraj')
 API_ID = int(environ['API_ID'])
 API_HASH = environ['API_HASH']
 BOT_TOKEN = environ['BOT_TOKEN']
@@ -43,26 +43,26 @@ NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "ApnaTube")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ApnaTube_files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Yuvraj")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Yuvraj_files')
 
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/ApnaTube/23")
-VERIFY2_URL = environ.get('VERIFY2_URL', "apnatube.in")
-VERIFY2_API = environ.get('VERIFY2_API', "78cc46dbf9ce97e7df41416acd4ae52da1c20c84")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'playlab.site')
-SHORTLINK_API = environ.get('SHORTLINK_API', '78cc46dbf9ce97e7df41416acd4ae52da1c20c84')
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/FilmyDesiFlix")
+VERIFY2_URL = environ.get('VERIFY2_URL', "mplaylink.com")
+VERIFY2_API = environ.get('VERIFY2_API', "45bcb9954cb6d5b5b6c89687fa11d3840da87daa")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'mplaylink.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '45bcb9954cb6d5b5b6c89687fa11d3840da87daa')
 IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/AmRobots_Bots')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/ApnaTube')
-MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FilmyFather_botlist')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/RequestingHuB')
+MSG_ALRT = environ.get('MSG_ALRT', 'ʜᴇʏʏʏʏ ɢᴀᴀᴀɴᴅᴜ Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'ApnaTube_support')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Yuvraj_4502Bot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
