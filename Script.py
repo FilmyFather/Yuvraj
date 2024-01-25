@@ -191,17 +191,12 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b> [Telegram @FilmyDesiFlix] {file_name}</b>
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 RᴇquᴇsᴛingHuB :  <a href="https://t.me/RequestingHuB">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @FilmyDesiFlix
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Yuvraj_4502Bot
-=========== • ✠ • ===========</b>"""
+🔅 𝖩𝗈𝗂𝗇 𝖡𝖺𝖼𝗄𝗎𝗉 :  <a href="https://t.me/RequestingHuB">RᴇquᴇsᴛingHuB</a>
+╰─────── • ◆ • ───────╯</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
