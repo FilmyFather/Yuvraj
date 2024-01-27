@@ -15,7 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - sᴏʀʀʏ ʙʀᴏ ᴛʜɪs ʙᴏᴛ ɪs ᴀɴ ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇs ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Yuvraj_4502Bot">ʜᴇʀᴇ</a>
+- 𝐏𝐚𝐲 𝐌𝐞 𝐈'𝐥𝐥 𝐌𝐚𝐤𝐞 𝐚 𝐒𝐚𝐦𝐞 𝐁𝐨𝐭 𝐅𝐨𝐫 𝐘𝐨𝐮
+- 𝐅𝐨𝐫 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 - <a href="https://graph.org/file/d9afeabbef8ebd46b2052.jpg">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+- 𝐀𝐟𝐭𝐞𝐫 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 & 𝐒𝐞𝐧𝐝 𝐚 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭 𝐎𝐟 𝐏𝐚𝐲𝐦𝐞𝐧𝐭.
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/Yuvi_4502">Yᥙ᥎rᥲj</a></b>"""
 
@@ -107,7 +109,7 @@ Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NewFD
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
@@ -166,7 +168,7 @@ Nᴀᴍᴇ - {}"""
 
 ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
-ᴇxᴀᴍᴘʟᴇ : ApnaTube
+ᴇxᴀᴍᴘʟᴇ : FilmyDesiFlix 
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
 
@@ -191,7 +193,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b> [Telegram @FilmyDesiFlix] {file_caption}</b>
+<b> [Join - @FilmyFather_Toon] {file_caption}</b>
 
 <b>╭─────── • ◆ • ───────╮
 🔅 𝖩𝗈𝗂𝗇 𝖡𝖺𝖼𝗄𝗎𝗉 :  <a href="https://t.me/RequestingHuB">RᴇquᴇsᴛingHuB</a>
